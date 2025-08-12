@@ -1,7 +1,10 @@
 # Rubiks-cube-solver
 
-![License](https://img.shields.io/badge/license-MIT-green)  
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+!![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/Kshitij-Verma/Rubiks-Cube-Solver)
+![Stars](https://img.shields.io/github/stars/Kshitij-Verma/Rubiks-Cube-Solver?style=social)
+
 
 ## 🧩 Project Overview
 A 3D virtual Rubik’s Cube solver built with **Python** & **VPython** — scramble, visualize, and solve using **Kociemba’s algorithm**.  
