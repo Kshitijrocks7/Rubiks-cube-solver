@@ -13,3 +13,7 @@ This project simulates a 3×3 Rubik’s Cube in 3D (VPython) and solves any vali
 - Delivered as submission for **AeroHack 2025** — shortlisted for Face Off
 
 ## Project Structure
+main.py # Starts the VPython app and runs the loop
+cube.py # 3D cube model, rotation engine, UI controls
+solve_rubiccs_cube.py # State decoding & kociemba solver wrapper
+presentation/ # PPT used for AeroHack submission
