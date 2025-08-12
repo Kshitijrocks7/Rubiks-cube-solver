@@ -2,8 +2,7 @@
 
 !![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Last Commit](https://img.shields.io/github/last-commit/Kshitij-Verma/Rubiks-Cube-Solver)
-![Stars]([https://img.shields.io/github/stars/Kshitij-Verma/Rubiks-Cube-Solver?style=socia](https://github.com/Kshitijrocks7/Rubiks-cube-solver.git)l)
+
 
 
 ## 🧩 Project Overview
