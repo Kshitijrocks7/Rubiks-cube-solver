@@ -42,6 +42,8 @@ This project simulates a **3×3 Rubik’s Cube** in 3D (VPython) and solves any 
    ```
 
 > **Note:** VPython will open a browser window for the 3D view. If the window is blank, refresh or check your firewall settings.
+## 🎥 Demo Video
+[▶ Watch Demo on Google Drive](https://drive.google.com/uc?id=1coXM6EN4oZJLrDu7GL_sDZovCXRrh9Ad&export=download)
 
 
 ---
